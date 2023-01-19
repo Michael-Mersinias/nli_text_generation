@@ -1,0 +1,653 @@
+global_id,prompt_id,annotator_name,nli_tag,p_value,rating
+2,186,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+2,186,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+3,279,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+3,279,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+4,24,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+4,24,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+6,391,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+6,391,anonymous_annotator_2,NLI GPJ - NEU,0.96,5
+7,150,anonymous_annotator_1,NLI GPJ - ENT,0.4,5
+7,150,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+8,105,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+8,105,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+9,278,anonymous_annotator_1,NLI GPJ - CON,0.96,5
+9,278,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+10,94,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+10,94,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+11,337,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+11,337,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+12,165,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+12,165,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+14,30,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+14,30,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+15,77,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+15,77,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+16,166,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+16,166,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+17,85,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+17,85,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+18,83,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+18,83,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+19,26,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+19,26,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+20,53,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+20,53,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+21,34,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+21,34,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+22,285,anonymous_annotator_1,NLI GPJ - CON,0.96,5
+22,285,anonymous_annotator_2,NLI GPJ - CON,0.96,5
+23,192,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+23,192,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+24,257,anonymous_annotator_1,NLI GPJ - CON,0.4,1
+24,257,anonymous_annotator_2,NLI GPJ - CON,0.4,1
+25,33,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+25,33,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+26,66,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+26,66,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+27,218,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+27,218,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+28,290,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+28,290,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+29,265,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+29,265,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+30,97,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+30,97,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+31,380,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+31,380,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+32,46,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+32,46,anonymous_annotator_2,Vanilla GPTJ,0.96,1
+33,204,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+33,204,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+34,398,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+34,398,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+35,317,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+35,317,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+36,206,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+36,206,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+37,365,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+37,365,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+38,31,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+38,31,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+39,311,anonymous_annotator_1,NLI GPJ - NEU,0.4,5
+39,311,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+40,187,anonymous_annotator_1,NLI GPJ - ENT,0.96,5
+40,187,anonymous_annotator_2,NLI GPJ - ENT,0.96,5
+41,327,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+41,327,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+59,178,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+59,178,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+61,383,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+61,383,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+62,302,anonymous_annotator_1,NLI GPJ - NEU,0.4,5
+62,302,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+64,360,anonymous_annotator_1,NLI GPJ - NEU,0.4,5
+64,360,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+65,230,anonymous_annotator_1,NLI GPJ - CON,0.96,4
+65,230,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+66,80,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+66,80,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+67,325,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+67,325,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+68,209,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+68,209,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+71,314,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+71,314,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+73,56,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+73,56,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+74,200,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+74,200,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+75,326,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+75,326,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+76,71,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+76,71,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+77,353,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+77,353,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+79,154,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+79,154,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+82,155,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+82,155,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+83,7,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+83,7,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+84,231,anonymous_annotator_1,NLI GPJ - CON,0.96,4
+84,231,anonymous_annotator_2,NLI GPJ - CON,0.96,4
+85,162,anonymous_annotator_1,NLI GPJ - ENT,0.4,5
+85,162,anonymous_annotator_2,NLI GPJ - ENT,0.4,5
+86,223,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+86,223,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+87,247,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+87,247,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+88,130,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+88,130,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+89,1,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+89,1,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+92,399,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+92,399,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+95,125,anonymous_annotator_1,NLI GPJ - ENT,0.96,5
+95,125,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+96,261,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+96,261,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+98,362,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+98,362,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+99,29,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+99,29,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+103,296,anonymous_annotator_1,NLI GPJ - CON,0.96,4
+103,296,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+104,19,anonymous_annotator_1,Vanilla GPTJ,0.4,5
+104,19,anonymous_annotator_2,Vanilla GPTJ,0.4,5
+106,385,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+106,385,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+107,143,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+107,143,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+108,306,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+108,306,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+109,256,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+109,256,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+110,89,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+110,89,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+111,376,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+111,376,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+112,307,anonymous_annotator_1,NLI GPJ - NEU,0.4,5
+112,307,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+113,320,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+113,320,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+114,176,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+114,176,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+115,141,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+115,141,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+116,305,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+116,305,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+117,122,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+117,122,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+118,226,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+118,226,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+119,36,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+119,36,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+120,15,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+120,15,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+121,348,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+121,348,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+122,253,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+122,253,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+123,245,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+123,245,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+124,167,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+124,167,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+125,271,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+125,271,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+127,334,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+127,334,anonymous_annotator_2,NLI GPJ - NEU,0.96,2
+129,381,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+129,381,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+130,144,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+130,144,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+133,74,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+133,74,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+134,120,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+134,120,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+136,49,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+136,49,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+138,233,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+138,233,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+139,386,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+139,386,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+141,190,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+141,190,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+142,319,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+142,319,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+143,392,anonymous_annotator_1,NLI GPJ - NEU,0.96,5
+143,392,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+144,171,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+144,171,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+145,370,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+145,370,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+146,51,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+146,51,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+147,185,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+147,185,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+148,112,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+148,112,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+149,82,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+149,82,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+150,191,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+150,191,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+151,6,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+151,6,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+152,221,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+152,221,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+153,189,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+153,189,anonymous_annotator_2,NLI GPJ - ENT,0.96,1
+154,62,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+154,62,anonymous_annotator_2,Vanilla GPTJ,0.4,5
+155,16,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+155,16,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+156,123,anonymous_annotator_1,NLI GPJ - ENT,0.4,5
+156,123,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+157,87,anonymous_annotator_1,Vanilla GPTJ,0.96,5
+157,87,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+158,151,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+158,151,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+159,224,anonymous_annotator_1,NLI GPJ - CON,0.4,1
+159,224,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+160,275,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+160,275,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+161,102,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+161,102,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+162,262,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+162,262,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+163,239,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+163,239,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+164,110,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+164,110,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+165,182,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+165,182,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+166,161,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+166,161,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+167,266,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+167,266,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+168,312,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+168,312,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+169,137,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+169,137,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+170,9,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+170,9,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+171,335,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+171,335,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+172,195,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+172,195,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+173,249,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+173,249,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+174,330,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+174,330,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+175,44,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+175,44,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+176,91,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+176,91,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+177,158,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+177,158,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+179,339,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+179,339,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+180,322,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+180,322,anonymous_annotator_2,NLI GPJ - NEU,0.4,2
+181,367,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+181,367,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+182,269,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+182,269,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+183,273,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+183,273,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+184,54,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+184,54,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+185,17,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+185,17,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+186,336,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+186,336,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+187,241,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+187,241,anonymous_annotator_2,NLI GPJ - CON,0.96,1
+189,243,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+189,243,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+190,124,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+190,124,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+191,41,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+191,41,anonymous_annotator_2,Vanilla GPTJ,0.96,1
+192,397,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+192,397,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+193,132,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+193,132,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+194,361,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+194,361,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+195,183,anonymous_annotator_1,NLI GPJ - ENT,0.96,5
+195,183,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+196,11,anonymous_annotator_1,Vanilla GPTJ,0.4,5
+196,11,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+197,318,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+197,318,anonymous_annotator_2,NLI GPJ - NEU,0.4,2
+198,258,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+198,258,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+199,172,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+199,172,anonymous_annotator_2,NLI GPJ - ENT,0.4,1
+200,355,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+200,355,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+201,208,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+201,208,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+202,117,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+202,117,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+203,86,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+203,86,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+204,251,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+204,251,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+205,272,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+205,272,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+206,90,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+206,90,anonymous_annotator_2,Vanilla GPTJ,0.96,1
+207,152,anonymous_annotator_1,NLI GPJ - ENT,0.4,1
+207,152,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+208,134,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+208,134,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+209,98,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+209,98,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+210,281,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+210,281,anonymous_annotator_2,NLI GPJ - CON,0.96,4
+211,282,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+211,282,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+213,48,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+213,48,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+214,179,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+214,179,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+215,180,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+215,180,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+216,32,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+216,32,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+218,146,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+218,146,anonymous_annotator_2,NLI GPJ - ENT,0.96,1
+219,136,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+219,136,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+220,291,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+220,291,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+221,371,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+221,371,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+222,287,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+222,287,anonymous_annotator_2,NLI GPJ - CON,0.96,4
+224,235,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+224,235,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+225,286,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+225,286,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+226,357,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+226,357,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+227,174,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+227,174,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+230,308,anonymous_annotator_1,NLI GPJ - NEU,0.4,1
+230,308,anonymous_annotator_2,NLI GPJ - NEU,0.4,2
+231,323,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+231,323,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+232,149,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+232,149,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+233,264,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+233,264,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+235,354,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+235,354,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+236,169,anonymous_annotator_1,NLI GPJ - ENT,0.4,5
+236,169,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+237,60,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+237,60,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+238,114,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+238,114,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+239,196,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+239,196,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+240,70,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+240,70,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+241,316,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+241,316,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+243,57,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+243,57,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+244,211,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+244,211,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+245,252,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+245,252,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+246,148,anonymous_annotator_1,NLI GPJ - ENT,0.96,1
+246,148,anonymous_annotator_2,NLI GPJ - ENT,0.96,1
+247,40,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+247,40,anonymous_annotator_2,Vanilla GPTJ,0.96,1
+248,395,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+248,395,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+249,10,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+249,10,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+250,67,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+250,67,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+251,14,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+251,14,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+254,270,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+254,270,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+255,378,anonymous_annotator_1,NLI GPJ - NEU,0.96,5
+255,378,anonymous_annotator_2,NLI GPJ - NEU,0.96,5
+256,248,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+256,248,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+258,194,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+258,194,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+259,160,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+259,160,anonymous_annotator_2,NLI GPJ - ENT,0.4,4
+260,212,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+260,212,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+261,126,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+261,126,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+262,349,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+262,349,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+263,43,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+263,43,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+264,295,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+264,295,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+265,244,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+265,244,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+266,121,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+266,121,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+268,164,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+268,164,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+270,366,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+270,366,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+271,219,anonymous_annotator_1,NLI GPJ - CON,0.4,1
+271,219,anonymous_annotator_2,NLI GPJ - CON,0.4,1
+272,343,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+272,343,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+273,260,anonymous_annotator_1,NLI GPJ - CON,0.4,5
+273,260,anonymous_annotator_2,NLI GPJ - CON,0.4,5
+274,202,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+274,202,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+275,92,anonymous_annotator_1,Vanilla GPTJ,0.96,5
+275,92,anonymous_annotator_2,Vanilla GPTJ,0.96,5
+276,50,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+276,50,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+277,242,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+277,242,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+278,277,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+278,277,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+279,109,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+279,109,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+280,321,anonymous_annotator_1,NLI GPJ - NEU,0.4,5
+280,321,anonymous_annotator_2,NLI GPJ - NEU,0.4,5
+281,222,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+281,222,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+282,341,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+282,341,anonymous_annotator_2,NLI GPJ - NEU,0.96,5
+283,358,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+283,358,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+284,214,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+284,214,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+285,139,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+285,139,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+286,300,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+286,300,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+287,373,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+287,373,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+288,216,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+288,216,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+289,229,anonymous_annotator_1,NLI GPJ - CON,0.96,1
+289,229,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+290,396,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+290,396,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+291,234,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+291,234,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+292,331,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+292,331,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+293,64,anonymous_annotator_1,Vanilla GPTJ,0.4,1
+293,64,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+295,274,anonymous_annotator_1,NLI GPJ - CON,0.4,2
+295,274,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+296,8,anonymous_annotator_1,Vanilla GPTJ,0.4,1
+296,8,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+297,382,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+297,382,anonymous_annotator_2,NLI GPJ - NEU,0.96,2
+298,347,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+298,347,anonymous_annotator_2,NLI GPJ - NEU,0.96,2
+299,379,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+299,379,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+300,289,anonymous_annotator_1,NLI GPJ - CON,0.96,1
+300,289,anonymous_annotator_2,NLI GPJ - CON,0.96,1
+301,119,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+301,119,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+302,145,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+302,145,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+303,23,anonymous_annotator_1,Vanilla GPTJ,0.4,5
+303,23,anonymous_annotator_2,Vanilla GPTJ,0.4,5
+304,301,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+304,301,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+305,283,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+305,283,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+306,107,anonymous_annotator_1,NLI GPJ - ENT,0.4,4
+306,107,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+307,310,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+307,310,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+308,225,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+308,225,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+309,333,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+309,333,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+310,375,anonymous_annotator_1,NLI GPJ - NEU,0.96,3
+310,375,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+311,292,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+311,292,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+312,227,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+312,227,anonymous_annotator_2,NLI GPJ - CON,0.96,1
+313,76,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+313,76,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+314,96,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+314,96,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+315,133,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+315,133,anonymous_annotator_2,NLI GPJ - ENT,0.96,1
+317,237,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+317,237,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+318,131,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+318,131,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+319,37,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+319,37,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+320,0,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+320,0,anonymous_annotator_2,Vanilla GPTJ,0.4,1
+321,78,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+321,78,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+322,352,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+322,352,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+323,344,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+323,344,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+324,12,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+324,12,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+325,332,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+325,332,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+326,22,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+326,22,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+327,116,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+327,116,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+328,304,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+328,304,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+330,153,anonymous_annotator_1,NLI GPJ - ENT,0.4,3
+330,153,anonymous_annotator_2,NLI GPJ - ENT,0.4,3
+331,95,anonymous_annotator_1,Vanilla GPTJ,0.96,1
+331,95,anonymous_annotator_2,Vanilla GPTJ,0.96,1
+332,27,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+332,27,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+333,108,anonymous_annotator_1,NLI GPJ - ENT,0.4,1
+333,108,anonymous_annotator_2,NLI GPJ - ENT,0.4,1
+334,240,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+334,240,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+335,246,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+335,246,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+336,387,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+336,387,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+337,217,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+337,217,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+338,372,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+338,372,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+339,342,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+339,342,anonymous_annotator_2,NLI GPJ - NEU,0.96,2
+340,181,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+340,181,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+341,142,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+341,142,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+342,47,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+342,47,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+343,4,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+343,4,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+344,157,anonymous_annotator_1,NLI GPJ - ENT,0.4,1
+344,157,anonymous_annotator_2,NLI GPJ - ENT,0.4,1
+345,198,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+345,198,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+346,5,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+346,5,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+347,69,anonymous_annotator_1,Vanilla GPTJ,0.4,4
+347,69,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+348,177,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+348,177,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+349,140,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+349,140,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+350,65,anonymous_annotator_1,Vanilla GPTJ,0.4,1
+350,65,anonymous_annotator_2,Vanilla GPTJ,0.4,1
+351,75,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+351,75,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+352,127,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+352,127,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+353,299,anonymous_annotator_1,NLI GPJ - CON,0.96,2
+353,299,anonymous_annotator_2,NLI GPJ - CON,0.96,2
+355,111,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+355,111,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+356,250,anonymous_annotator_1,NLI GPJ - CON,0.4,1
+356,250,anonymous_annotator_2,NLI GPJ - CON,0.4,2
+357,100,anonymous_annotator_1,NLI GPJ - ENT,0.4,1
+357,100,anonymous_annotator_2,NLI GPJ - ENT,0.4,1
+358,374,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+358,374,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+359,25,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+359,25,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+360,345,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+360,345,anonymous_annotator_2,NLI GPJ - NEU,0.96,3
+361,201,anonymous_annotator_1,NLI GPJ - CON,0.4,1
+361,201,anonymous_annotator_2,NLI GPJ - CON,0.4,1
+362,215,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+362,215,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+363,55,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+363,55,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+364,390,anonymous_annotator_1,NLI GPJ - NEU,0.96,2
+364,390,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
+365,42,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+365,42,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+366,72,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+366,72,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+367,2,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+367,2,anonymous_annotator_2,Vanilla GPTJ,0.4,3
+368,324,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+368,324,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+369,350,anonymous_annotator_1,NLI GPJ - NEU,0.4,2
+369,350,anonymous_annotator_2,NLI GPJ - NEU,0.4,2
+370,101,anonymous_annotator_1,NLI GPJ - ENT,0.4,2
+370,101,anonymous_annotator_2,NLI GPJ - ENT,0.4,2
+371,255,anonymous_annotator_1,NLI GPJ - CON,0.4,3
+371,255,anonymous_annotator_2,NLI GPJ - CON,0.4,3
+372,356,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+372,356,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+373,280,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+373,280,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+375,52,anonymous_annotator_1,Vanilla GPTJ,0.4,2
+375,52,anonymous_annotator_2,Vanilla GPTJ,0.4,2
+378,129,anonymous_annotator_1,NLI GPJ - ENT,0.96,2
+378,129,anonymous_annotator_2,NLI GPJ - ENT,0.96,2
+380,58,anonymous_annotator_1,Vanilla GPTJ,0.4,3
+380,58,anonymous_annotator_2,Vanilla GPTJ,0.4,4
+381,45,anonymous_annotator_1,Vanilla GPTJ,0.96,4
+381,45,anonymous_annotator_2,Vanilla GPTJ,0.96,3
+384,297,anonymous_annotator_1,NLI GPJ - CON,0.96,4
+384,297,anonymous_annotator_2,NLI GPJ - CON,0.96,4
+385,199,anonymous_annotator_1,NLI GPJ - ENT,0.96,3
+385,199,anonymous_annotator_2,NLI GPJ - ENT,0.96,3
+386,351,anonymous_annotator_1,NLI GPJ - NEU,0.4,4
+386,351,anonymous_annotator_2,NLI GPJ - NEU,0.4,4
+387,364,anonymous_annotator_1,NLI GPJ - NEU,0.4,3
+387,364,anonymous_annotator_2,NLI GPJ - NEU,0.4,3
+388,35,anonymous_annotator_1,Vanilla GPTJ,0.96,3
+388,35,anonymous_annotator_2,Vanilla GPTJ,0.96,4
+389,267,anonymous_annotator_1,NLI GPJ - CON,0.4,4
+389,267,anonymous_annotator_2,NLI GPJ - CON,0.4,4
+390,99,anonymous_annotator_1,Vanilla GPTJ,0.96,2
+390,99,anonymous_annotator_2,Vanilla GPTJ,0.96,2
+391,232,anonymous_annotator_1,NLI GPJ - CON,0.96,3
+391,232,anonymous_annotator_2,NLI GPJ - CON,0.96,4
+392,294,anonymous_annotator_1,NLI GPJ - CON,0.96,4
+392,294,anonymous_annotator_2,NLI GPJ - CON,0.96,3
+393,175,anonymous_annotator_1,NLI GPJ - ENT,0.96,4
+393,175,anonymous_annotator_2,NLI GPJ - ENT,0.96,4
+394,329,anonymous_annotator_1,NLI GPJ - NEU,0.96,4
+394,329,anonymous_annotator_2,NLI GPJ - NEU,0.96,4
